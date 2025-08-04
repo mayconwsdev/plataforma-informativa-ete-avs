@@ -93,9 +93,7 @@ Durante o desenvolvimento do projeto:
 
 ```plaintext
 📁 /docs
-  └── Copia_TCC_Plataforma_Informativa_ETE_AVS.pdf
+  └── [Cópia de PLATAFORMA INFORMATIVA DA ETE-AVS .pdf](https://github.com/user-attachments/files/21569112/Copia.de.PLATAFORMA.INFORMATIVA.DA.ETE-AVS.pdf)
 
-📁 /img
-  └── imagens_prototipo_site.png (opcional)
 
 📄 README.md
