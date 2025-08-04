@@ -71,8 +71,11 @@ Tudo isso foi organizado em um ambiente visual acessível usando **Google Sites*
 - Área de documentos e editais
 - História da ETEAVS e de Ariano Vilar Suassuna
 
-> ![protipo da plataforma] (https://github.com/mayconwsdev/plataforma-informativa-ete-avs/blob/main/IMG_2948.jpeg?raw=true)
-
+<img src="https://github.com/mayconwsdev/plataforma-informativa-ete-avs/blob/main/IMG_2948.jpeg" alt="Protótipo da plataforma" width="600">
+<img src="https://github.com/mayconwsdev/plataforma-informativa-ete-avs/blob/main/IMG_2950.jpeg " alt="Protótipo da plataforma" width="600">
+<img src="https://github.com/mayconwsdev/plataforma-informativa-ete-avs/blob/main/IMG_2951.jpeg " alt="Protótipo da plataforma" width="600">
+<img src="https://github.com/mayconwsdev/plataforma-informativa-ete-avs/blob/main/IMG_2952.jpeg " alt="Protótipo da plataforma" width="600">
+<img src="https://github.com/mayconwsdev/plataforma-informativa-ete-avs/blob/main/IMG_2953.jpeg " alt="Protótipo da plataforma" width="600">
 ---
 
 ## 📘 O Que Aprendemos
