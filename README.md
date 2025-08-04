@@ -71,7 +71,7 @@ Tudo isso foi organizado em um ambiente visual acessível usando **Google Sites*
 - Área de documentos e editais
 - História da ETEAVS e de Ariano Vilar Suassuna
 
-> https://github.com/mayconwsdev/plataforma-informativa-ete-avs/blob/main/IMG_2948.jpeg?raw=true
+> ![protipo da plataforma] (https://github.com/mayconwsdev/plataforma-informativa-ete-avs/blob/main/IMG_2948.jpeg?raw=true)
 
 ---
 
