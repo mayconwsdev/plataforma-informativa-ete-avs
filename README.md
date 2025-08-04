@@ -89,11 +89,4 @@ Durante o desenvolvimento do projeto:
 
 ---
 
-## 📁 Estrutura do Repositório
 
-```plaintext
-📁 /docs
-  └── [Cópia de PLATAFORMA INFORMATIVA DA ETE-AVS .pdf](https://github.com/user-attachments/files/21569112/Copia.de.PLATAFORMA.INFORMATIVA.DA.ETE-AVS.pdf)
-
-
-📄 README.md
